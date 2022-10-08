@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="222.605">
+  <properties />
+  
+  
+            <testcase name="Registeration" time="45.580" classname="phase5.Testautomate" />
+                <testcase name="sigin" time="98.309" classname="phase5.Testautomate" />
+                <testcase name="addToCart" time="78.716" classname="phase5.Testautomate" />
+      
+</testsuite>
